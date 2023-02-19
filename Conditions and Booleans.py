@@ -62,6 +62,7 @@ if condition:
     print('Evaluated to True')
 else:
     print('Evaluated to False')
+
     # Zero of any numeric type
 condition = 0
 if condition:
@@ -73,6 +74,9 @@ if condition:
     print('Evaluated to True')
 else:
     print('Evaluated to False')
+    
+
     # Any empty sequence. For example, '', (), [].
+
     # Any empty mapping. For example, {}.
 
