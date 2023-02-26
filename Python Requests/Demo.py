@@ -51,9 +51,9 @@
 
 # 3) Read JSON
 
-import requests
+# import requests
 
 
-r = requests.get('https://httpbin.org/basic-auth/Ali/husne1129', auth = ('Ali', 'husne1129'))
+# r = requests.get('https://httpbin.org/basic-auth/Ali/husne1129', auth = ('Ali', 'husne1129'))
 
-print(r.text)
+# print(r.text)
